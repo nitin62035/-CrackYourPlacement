@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
