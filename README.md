@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 ## Bit Manipulation
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0289-game-of-life) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
