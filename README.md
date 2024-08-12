@@ -108,4 +108,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
