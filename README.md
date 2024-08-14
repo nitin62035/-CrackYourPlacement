@@ -100,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
