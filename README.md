@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Bit Manipulation
@@ -166,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
