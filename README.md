@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
