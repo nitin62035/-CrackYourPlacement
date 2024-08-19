@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0307-range-sum-query-mutable](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
