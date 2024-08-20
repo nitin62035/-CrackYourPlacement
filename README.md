@@ -129,16 +129,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 ## Sliding Window
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
