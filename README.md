@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
