@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0500-keyboard-row) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Bit Manipulation
