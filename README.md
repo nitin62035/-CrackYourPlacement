@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0684-redundant-connection) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
