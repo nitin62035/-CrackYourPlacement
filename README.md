@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [1260-day-of-the-year](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1260-day-of-the-year) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0520-detect-capital) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
+| [1260-day-of-the-year](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1260-day-of-the-year) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Bit Manipulation
 |  |
