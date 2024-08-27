@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -190,12 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
@@ -247,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
