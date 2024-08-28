@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [1236-n-th-tribonacci-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1260-day-of-the-year) |
 ## String
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [1236-n-th-tribonacci-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1236-n-th-tribonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Prefix Sum
 |  |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
