@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1236-n-th-tribonacci-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
