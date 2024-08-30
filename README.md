@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0171-excel-sheet-column-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
