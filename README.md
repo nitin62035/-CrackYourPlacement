@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2155-find-missing-observations](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1260-day-of-the-year) |
+| [2155-find-missing-observations](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
+| [2155-find-missing-observations](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
