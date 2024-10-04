@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1694-make-sum-divisible-by-p](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2155-find-missing-observations](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1694-make-sum-divisible-by-p](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Greedy
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 ## Matrix
 |  |
 | ------- |
