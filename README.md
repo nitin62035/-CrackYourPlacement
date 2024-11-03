@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0520-detect-capital) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1260-day-of-the-year) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1236-n-th-tribonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
