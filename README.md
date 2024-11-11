@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2155-find-missing-observations](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2716-prime-subtraction-operation](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/nitin62035/-CrackYourPlacement/tree/master/1260-day-of-the-year) |
 | [2155-find-missing-observations](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2716-prime-subtraction-operation](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/nitin62035/-CrackYourPlacement/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/nitin62035/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
